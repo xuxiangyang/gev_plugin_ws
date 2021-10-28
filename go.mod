@@ -1,4 +1,4 @@
-module github.com/xuxiangyang/gev-plugin-ws
+module github.com/xuxiangyang/gev_plugin_ws
 
 go 1.16
 
